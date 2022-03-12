@@ -1,0 +1,17 @@
+{
+    "E-mail Marketing Image": {
+        "prefix": "eimg",
+        "body": "img[src=${1} style=\"border: 0; display: block;\" title=${2} alt=${3} width=${4} height=${5}]",
+        "description": "Creates an <img> element with attributes that are commonly used on e-mail marketing templates."
+    },
+    "E-mail Marketing Link": {
+        "prefix": "ea",
+        "body": "table[cellspacing=\"0\" cellpadding=\"0\" align=\"center\" border=\"0\" bgcolor=${1}]",
+        "description": "Creates an <a> element with attributes that are commonly used on e-mail marketing templates."
+    },
+    "E-mail Marketing Table": {
+        "prefix": "etable",
+        "body": "a[title=${1}]",
+        "description": "Creates an <table> element with attributes that are commonly used on e-mail marketing templates."
+    }
+}
