@@ -3,6 +3,7 @@
     "displayName": "E-mail Marketing Html Snnipets",
     "description": "Simple snippets for images, links and tables used on e-mail marketing development",
     "version": "1.0.0",
+    "publisher": "Anderson Ves",
     "repository": {
         "type": "git",
         "url": "https://github.com/AndersonVes/e-mail-marketing-html-snnipets-vscode-extension"
