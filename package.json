@@ -5,7 +5,7 @@
     "version": "1.0.0",
     "repository": {
         "type": "git",
-        "url": ""
+        "url": "https://github.com/AndersonVes/e-mail-marketing-html-snnipets-vscode-extension"
     },
     "icon": "icon.png",
     "engines": {
