@@ -11,7 +11,7 @@
     },
     "E-mail Marketing Link": {
         "prefix": "ea",
-        "body": "<a src=\"${1}\" title=\"${2}\">${3}</a>",
+        "body": "<a href=\"${1}\" title=\"${2}\">${3}</a>",
         "description": "Creates an <a> element with attributes that are commonly used on e-mail marketing templates."
     }
 }

@@ -13,7 +13,7 @@ Simple snippets for images, links and tables used on e-mail marketing developmen
 ### ea - E-mail Marketing Link
 
 ```html
-<a src=" | " title=" | "> | </a>
+<a href=" | " title=" | "> | </a>
 ```
 
 ### etable - E-mail Marketing Table
