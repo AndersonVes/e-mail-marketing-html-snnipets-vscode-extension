@@ -1,4 +1,4 @@
-# E-mail Marketing Html Snnipets
+# E-mail Marketing Html Snippets
 
 Simple snippets for images, links and tables used on e-mail marketing development.
 
@@ -21,7 +21,5 @@ Simple snippets for images, links and tables used on e-mail marketing developmen
 ```html
 <table cellspacing="0" cellpadding="0" align="center" border="0" bgcolor=" | "> | </table>
 ```
-
-Download: https://marketplace.visualstudio.com/items?itemName=AndersonVes.e-mail-marketing-html-snnipets
 
 By Anderson Vesguerber - Github: AndersonVes
